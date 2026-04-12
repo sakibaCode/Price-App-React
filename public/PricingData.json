@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Forge Fitness",
+    "location": "Dhaka",
+    "membershipRequired": false,
+    "dayPassAvailable": true,
+    "pricePerVisit":" 250/-",
+    "openHours": "6:00 AM - 11:00 PM",
+    "facilities": ["Weights", "Cardio", "Locker Room"]
+  },
+  {
+    "id": 2,
+    "name": "PowerHub Gym",
+    "location": "Uttara",
+    "membershipRequired": false,
+    "dayPassAvailable": true,
+    "pricePerVisit":" 300/-",
+    "openHours": "5:30 AM - 10:30 PM",
+    "facilities": ["CrossFit Area", "Weights", "Treadmills"]
+  },
+  {
+    "id": 3,
+    "name": "Flex Arena",
+    "location": "Dhanmondi",
+    "membershipRequired": false,
+    "dayPassAvailable": true,
+    "pricePerVisit":" 200/-",
+    "openHours": "7:00 AM - 12:00 AM",
+    "facilities": ["Machines", "Cardio", "Stretch Zone"]
+  }
+]
